@@ -1,0 +1,49 @@
+.img-navbar{
+    width: 100px;
+}
+.bg-blue{
+    background-color: black;   
+}
+#feature{
+    padding: 10px 15px;
+    background-color: #ffffff;
+    position: relative;
+}
+.feature-box{
+    text-align: center;
+    padding: 4.5%;
+}
+.icon{
+    color: tomato;
+}
+#carousel{
+    padding: 5% 16%;
+    background-color: black;
+}
+.carousel-img{
+    width: 50%;
+    border-radius: 100%;
+}
+.footer {
+    text-align: center;
+    padding: 3%;
+    background-color: black;
+    left: 0;
+    right: 0;    
+}
+.foter-spc{
+    margin: 0 20px;
+}
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+    
+.title-midle{
+    position: absolute;
+    text-align: center;
+    padding-top: 25%;
+    font-size: 30px;
+}
